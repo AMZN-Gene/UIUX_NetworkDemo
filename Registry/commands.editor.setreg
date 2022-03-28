@@ -1,0 +1,15 @@
+{
+    "Amazon":
+    {
+        "AzCore":
+        {
+            "Runtime":
+            {
+                "ConsoleCommands":
+                {
+                    "editorsv_enabled": "true"
+                }
+            }
+        }
+    }
+} 
