@@ -1,0 +1,20 @@
+{
+    "project_name": "UIUX_NetworkDemo",
+    "project_id": "{f0174d1c-43fd-472f-b261-d9fccb67c98f}",
+    "origin": "The primary repo for UIUX_NetworkDemo goes here: i.e. http://www.mydomain.com",
+    "license": "What license UIUX_NetworkDemo uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "UIUX_NetworkDemo",
+    "summary": "A project demo'ing how to setup networking features.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "UIUX_NetworkDemo"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "UIUX_NetworkDemo"
+}

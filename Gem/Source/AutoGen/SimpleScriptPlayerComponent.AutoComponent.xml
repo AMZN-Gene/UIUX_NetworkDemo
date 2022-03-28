@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<Component
+    Name="SimpleScriptPlayerComponent"
+    Namespace="UIUX_NetworkDemo"
+    OverrideComponent="false"
+    OverrideController="false"
+    OverrideInclude=""
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <ComponentRelation Constraint="Required" HasController="true" Name="NetworkCharacterComponent" Namespace="Multiplayer" Include="Multiplayer/Components/NetworkCharacterComponent.h"/>
+
+    <NetworkInput Type="float" Name="FwdBack" Init="0.0f" ExposeToScript="true"/>
+    <NetworkInput Type="float" Name="LeftRight" Init="0.0f" ExposeToScript="true"/>
+</Component>
